@@ -57,3 +57,6 @@
 - Fighters should not have HP at all
 - Gunships should not exceed 150HP LBA-L/S
 - Fleetship class may not exceed 400HP LBA
+
+### Final statement:
+- The OIC and or the Admiral reserves the right to at all times enforce or exempt the rules above in order to make the combat experience as fun and involving to all combatants as deemed necessary. Any issues with a decision made during the combat scenario can be brought to Exavier Lupindo **after** combat has concluded, and no more than 48 hours after the conclusion of the combat instance. The decision made by Exavier Lupindo will then be the final say in the matter and should not be pursued further.
