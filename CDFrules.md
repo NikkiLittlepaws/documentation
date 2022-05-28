@@ -16,6 +16,7 @@
 - We reserve the right to fully enforce as well as make exemptions to the above stated regulations.
 
 ## 3: Communications courtesy
+- This sim and group houses members from other militaries and unaffiliated groups and communities. Please treat others with respect and keep the out-of-combat axe grinding for elsewhere, be it on voice, inworld voice, chat or IMs.
 - The OIC (Officer in Command) is responsible for the forces attacking / defending, be they members of the group, militia or lonewolves fighting alongside attackers or defenders.
 - When entering with intent to raid, declare an OIC and await response. This can be done to one of the members active on base.
 - During combat, please act professional. If you act as if you believe you have the power to dictate what we should do, you will be asked to stop or find someone else to take over. Same goes for acting like a manchild.
@@ -60,3 +61,6 @@
 
 ### Final statement:
 - The OIC and or the Admiral reserves the right to at all times enforce or exempt the rules above in order to make the combat experience as fun and involving to all combatants as deemed necessary. Any issues with a decision made during the combat scenario can be brought to Exavier Lupindo **after** combat has concluded, and no more than 48 hours after the conclusion of the combat instance. The decision made by Exavier Lupindo will then be the final say in the matter and should not be pursued further.
+
+### Changelog
+28/05/22: Added general respect line to Communications Courtesy.
