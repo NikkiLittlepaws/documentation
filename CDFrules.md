@@ -10,6 +10,7 @@
 - First and foremost, if we deem something to be detrimental to the flow of combat, we reserve the right to deny it for the duration of combat, or potentially longer.
 - The ratio for combat is 1:1.5 in either direction unless otherwise is agreed upon.
 - Do not wireframe, use ARC/ARW, Collision skeletons, hitboxes or other irregular viewer features to try and gain an unfair advantage. Firestorm’s combat feature is acceptable.
+- There is no definitive height restriction, provided such **isn't abused.** It will be judged on case-by-case basis.
 - Dodgerolls should take you no further than 10 meters and may not function in midair.
 - Do not use grapplehooks, breachcharges or any other movement enhancers, teleporters or medic-TPs.
 - No obnoxious sound or light spam.
@@ -63,4 +64,4 @@
 - The OIC and or the Admiral reserves the right to at all times enforce or exempt the rules above in order to make the combat experience as fun and involving to all combatants as deemed necessary. Any issues with a decision made during the combat scenario can be brought to Exavier Lupindo **after** combat has concluded, and no more than 48 hours after the conclusion of the combat instance. The decision made by Exavier Lupindo will then be the final say in the matter and should not be pursued further.
 
 ### Changelog
-28/05/22: Added general respect line to Communications Courtesy.
+28/05/22: Added general respect line to Communications Courtesy. Added specification on height in Commmon COmbat Regulations.
