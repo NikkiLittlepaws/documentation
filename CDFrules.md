@@ -14,6 +14,8 @@
 - Dodgerolls should take you no further than 10 meters and may not function in midair.
 - Do not use grapplehooks, breachcharges or any other movement enhancers, teleporters or medic-TPs.
 - No obnoxious sound or light spam.
+- Do not loiter during or after combat without the Fleet Admiral's permission.
+- Do not do raid interception on other militaries.
 - We reserve the right to fully enforce as well as make exemptions to the above stated regulations.
 
 ## 3: Communications courtesy
